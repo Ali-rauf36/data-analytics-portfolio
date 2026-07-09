@@ -1,26 +1,36 @@
-# Superstore Sales Analysis
-**Tools:** Python (pandas, matplotlib, seaborn) · SQL (SQLite) · Jupyter Notebook
+# Data Analytics Portfolio
+### Ali Rauf · Lahore, Pakistan
 
-## Project Overview
-End-to-end sales analysis of 9,994 retail orders across 4 regions and 3 product 
-categories, using SQL for data querying and Python for visualization.
+A collection of end-to-end data analytics projects built using Python, SQL and Power BI — 
+covering data cleaning, analysis, visualization and interactive dashboards.
 
-## Key Findings
-- **West region** leads in both sales ($725K) and profit margin (14.94%)
-- **Central region** has the worst profit margin (7.92%) despite ranking 3rd in sales
-- **99% of loss-making orders** carry above-average discounts — discounting is the 
-  #1 profit killer in this business
-- **Furniture** has disproportionately low profit relative to its sales volume
+---
 
-## Files
-| File | Description |
-|------|-------------|
-| `superstore_analysis.ipynb` | Full Python analysis with charts and findings |
-| `superstore.db` | SQLite database with all SQL queries |
-| `superstore.csv` | Raw dataset (9,994 orders) |
+## Projects
+
+| # | Project | Tools | Dataset | Key Insight |
+|---|---------|-------|---------|-------------|
+| 1 | [Superstore Sales Analysis](./superstore-analysis) | SQL · Python · pandas | 9,994 retail orders | Central region has worst profit margin (7.92%) due to heavy discounting |
+| 2 | [COVID-19 Global Explorer](./covid19-analysis) | Python · pandas | 243 countries · 333K records | Omicron wave caused largest case spike; death rates fell post-vaccination |
+| 3 | [HR Analytics Dashboard](./hr-analytics-dashboard) | Power BI · DAX | 1,470 employees | Sales dept leads attrition at 16.12% overall rate |
+| 4 | [E-Commerce Pipeline](./ecommerce-pipeline) | SQL · Python · Power BI | 541,909 transactions | 79.9% one-time buyers; £1.5M November revenue peak |
+
+---
 
 ## Skills Demonstrated
-- Data exploration and cleaning with pandas
-- Aggregation, JOINs, CTEs and subqueries in SQL
-- Root cause analysis through cross-dimensional investigation
-- Data visualization with matplotlib and seaborn
+
+| Category | Tools |
+|----------|-------|
+| Languages | Python · SQL |
+| Libraries | pandas · matplotlib · seaborn |
+| Databases | SQLite |
+| BI Tools | Power BI · DAX |
+| Other | Git · GitHub · Jupyter Notebook |
+
+---
+
+## Certifications
+IBM SkillsBuild — Data Fundamentals · 2026
+
+---
+📧 arauf6339@gmail.com · 📍 Lahore, Pakistan
